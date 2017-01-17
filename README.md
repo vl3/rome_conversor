@@ -1,4 +1,6 @@
 # RomeConversor
+NOTE: The correct syntax would be Roman Conversor, Roman Numeral, etc.
+To correct all terms in the library is a todo.
 
 Simple library to convert decimals to rome numerals and viceversa
 
